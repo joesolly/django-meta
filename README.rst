@@ -1,7 +1,7 @@
 ===========
 django-meta
 ===========
-
+ 
 .. image:: https://img.shields.io/pypi/v/django-meta.svg?style=flat-square
     :target: https://pypi.python.org/pypi/django-meta
     :alt: Latest PyPI version
